@@ -150,15 +150,13 @@ p {
     font-size: .8em;
     color: #ffffff;
     position: absolute;
-    width: 210px;
+    width: 230px;
     top: 115px;
     left: 385px;
-
 }
 
 .details {
     position: relative;
-   
 }
 
 .print {
@@ -184,12 +182,14 @@ p {
     line-height: 1.1em;
 }
 
+
+
 /* sourrce: https://css-tricks.com/examples/ShapesOfCSS/ */
 #triangle-right {
     width: 0;
     height: 0;
     border-top: 15px solid transparent;
-    border-left: 15px solid red;
+    border-left: 15px solid #e9593e;
     border-bottom: 15px solid transparent;
     position: absolute;
     left: 560px;
